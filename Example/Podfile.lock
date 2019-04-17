@@ -1,0 +1,16 @@
+PODS:
+  - DCKitOne (0.1.0)
+
+DEPENDENCIES:
+  - DCKitOne (from `../`)
+
+EXTERNAL SOURCES:
+  DCKitOne:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DCKitOne: 248024c97134f0d105da2fcc331e85bfb02da157
+
+PODFILE CHECKSUM: 995c3e9f224884de5715edc17ff8b8846c4d4697
+
+COCOAPODS: 1.6.0.beta.2

@@ -43,10 +43,10 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		8F18C3B1979F93A8536605F5 /* Pods-DCKitOne_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DCKitOne_Tests.release.xcconfig"; path = "Target Support Files/Pods-DCKitOne_Tests/Pods-DCKitOne_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9FB53923DF6CE361B98284AD /* Pods_DCKitOne_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DCKitOne_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8E5C15B5582AE5029C7D52C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B1D69BF95EB21E502EA385CC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A8E5C15B5582AE5029C7D52C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B1D69BF95EB21E502EA385CC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D931891DDAC0DBA56648FC19 /* Pods-DCKitOne_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DCKitOne_Tests.debug.xcconfig"; path = "Target Support Files/Pods-DCKitOne_Tests/Pods-DCKitOne_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		E732008357FD8E64153C237F /* DCKitOne.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = DCKitOne.podspec; path = ../DCKitOne.podspec; sourceTree = "<group>"; };
+		E732008357FD8E64153C237F /* DCKitOne.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DCKitOne.podspec; path = ../DCKitOne.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +156,6 @@
 				D931891DDAC0DBA56648FC19 /* Pods-DCKitOne_Tests.debug.xcconfig */,
 				8F18C3B1979F93A8536605F5 /* Pods-DCKitOne_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

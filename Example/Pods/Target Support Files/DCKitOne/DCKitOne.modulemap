@@ -1,0 +1,6 @@
+framework module DCKitOne {
+  umbrella header "DCKitOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
