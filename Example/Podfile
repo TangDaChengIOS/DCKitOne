@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DCKitOne_Example' do
+  pod 'DCKitOne', :path => '../'
+
+  target 'DCKitOne_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
